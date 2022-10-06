@@ -1,0 +1,27 @@
+
+body{
+    background-image: url(istockphoto-1215841555-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.message1{
+    color: blue;
+    text-decoration:underline;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+    margin-top: 20%;
+    cursor: pointer;
+
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+ margin-right: 20%;
+ margin-left: 20%;
+}
